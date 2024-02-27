@@ -19,12 +19,16 @@ The Stock Market Prediction App is a web application built using Streamlit, yfin
 - Python 3.6 or higher
 - Install required dependencies:
 
+
+```sh
   pip install -r requirements.txt
+```
 
 ### Running the app
 
-
+```sh
    python -m streamlit run main.py
+```
 
 - Visit the provided URL in your web browser to interact with the app.
 
